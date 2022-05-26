@@ -87,7 +87,7 @@ Concluding this, **type** and **object** are doing the same thing. Both are basi
 
 #### Going into more technical details of object creation and metaclass
 
-**the __metaclass__ attribute (Python2)**:
+the __metaclass__ attribute (Python2):
 
 ```py
 class Foo(Object):
