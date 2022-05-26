@@ -18,6 +18,6 @@ Now since classs is an object:-
 - we can add attributes to it
 - we can pass it as a function parameter
 
-Please refer to these code files here which make use of python classes as objects.
+Please refer to these [code files](https://github.com/SadkiratSingh/python-Classes-as-Objects/blob/main/classes-as-object.py) here which make use of python classes as objects.
 
 
